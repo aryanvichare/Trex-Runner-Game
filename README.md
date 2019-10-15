@@ -1,4 +1,4 @@
-# Trex-Runner-Game-
+# Trex-Runner-Game
 This is a TRex Runner game similar to Google's "no wifi" trex runner game. 
 
 # How to Run the Program  #
